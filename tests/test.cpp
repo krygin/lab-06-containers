@@ -2,7 +2,8 @@
 
 #include <gtest/gtest.h>
 
-#include <lab.hpp>
+#include <header.hpp>
+#include <list>
 
 TEST(Test1, Find) {
   std::vector<int> v = {10, 17, 23, 4, 56, 79, 83, 11, 2, -3};
